@@ -13,7 +13,10 @@ I'm Mohamed Yacine Elfadili, a computer science student <br>at Polydisciplinaire
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yacine20elfadili&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>
+  "The golden rule says °° If it works, don't touch it!!! °°."  
+  <br>— theGoldenRule
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yacine20elfadili&icon=0&color=0)](https://visitcount.itsvg.in)
