@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mohamed Yacine Elfadili, a computer science student <br>at Polydisciplinaire Faculty of Taroudant. Currently, I'm exploring <br>career options, acquiring in-depth knowledge, and staying <br>up-to-date with technological advancements. <br>I have experience working with HTML, CSS, and JavaScript. <br>I'm also familiar with Python, specifically with Flask, <br>and I'm learning about C.
+I'm Mohamed Yacine Elfadili, a computer science student <br>at Polydisciplinaire Faculty of Taroudant. Currently, I'm exploring <br>career options, acquiring in-depth knowledge, and staying <br>up-to-date with technological advancements. <br>I have experience working with HTML, CSS, and JavaScript. <br>I'm also familiar with Python, specifically with Flask, <br>and I'm learning about C and C++.
 
 
 ## 🌐 Socials:
